@@ -1,0 +1,7 @@
+Bienvenido al proyecto de clasificación de granos de Soja mediante Redes Neuronales y vision artificial.
+Para correr el Código debe de instalar las siguientes librerías:
+1.- opencv-python
+2.- Pillow
+3.- matplotlib
+4.- tensorflow
+En el dataset debería de ir imágenes de granos de soja en buen estado, en mal estado, y en muy mal estado, tal como se lo muestra en la diapositiva.
